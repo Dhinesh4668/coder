@@ -19,7 +19,7 @@ const INFO = {
 	homepage: {
 		title: "Full-stack web and mobile app developer.",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+			"I am a full-stack developer with expertise in the PERN (PostgreSQL, Express.js, React, Node.js) stack and React Native with Expo. Additionally, I have experience as a UI designer using Figma. I have a proven track record in building scalable, secure, and reliable web and mobile applications while also bringing a keen eye for design to create user-friendly interfaces. I enjoy solving complex problems, learning new skills, and ensuring that the code and designs I produce adhere to best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer and designer.",
 	},
 
 	about: {
