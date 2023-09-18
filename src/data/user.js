@@ -7,13 +7,13 @@ const INFO = {
 	},
 
 	socials: {
-		twitter: "https://twitter.com/",
-		github: "https://github.com/",
-		linkedin: "https://linkedin.com/",
-		instagram: "https://instagram.com/",
+		twitter: "https://twitter.com/Dhinesh4668",
+		github: "https://github.com/Dhinesh4668",
+		linkedin: "https://www.linkedin.com/in/dhinesh-kumar-00aa8b1a5/",
+		instagram: "https://instagram.com/__viram_",
 		stackoverflow: "https://stackoverflow.com/",
 		facebook: "https://facebook.com/",
-		linkdin: "https://www.linkedin.com/in/dhinesh-kumar-00aa8b1a5/"
+		// linkdin: ""
 	},
 
 	homepage: {
